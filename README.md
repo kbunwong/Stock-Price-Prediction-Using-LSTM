@@ -14,7 +14,7 @@ We use a publicly available dataset containing historical stock prices of variou
 
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
 
-![Test Image 1](https://private-user-images.githubusercontent.com/95336274/237241861-2590dc7b-29bb-45ae-b0a2-1bf869db0125.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4NTIzMjEsIm5iZiI6MTc0NTg1MjAyMSwicGF0aCI6Ii85NTMzNjI3NC8yMzcyNDE4NjEtMjU5MGRjN2ItMjliYi00NWFlLWIwYTItMWJmODY5ZGIwMTI1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI4VDE0NTM0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwNzI3YTkxYTE1MTYzMzBkZWM3Y2Y1YmM0NzMxM2U4ZjdmZTAzN2Q1MDhlNTYyOTY0NDBmYjc1OTI0NmUyNzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tsyzy02woIBrj2OG69BhK3HW9hhigq1vQDnWFweLQxI)
+![Test Image 1](download.png)
 
 Note that while LSTM models can provide insights into stock price trends, actual stock market behaviour is influenced by various complex factors. Predictions should be used for informational purposes and not solely for making investment decisions.
 
